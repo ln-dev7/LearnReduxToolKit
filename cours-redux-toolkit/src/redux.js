@@ -37,9 +37,9 @@ export const store = configureStore({
 export const { addTask, toggleTask, deleteTask } = todoSlide.actions;
 
 // Action Creator
-export const createToggle = (id) => {
-  return {
-    type: "todo/toggleTask",
-    payload: id,
-  };
-};
+// export const createToggle = (id) => {
+//   return {
+//     type: "todo/toggleTask",
+//     payload: id,
+//   };
+// };
