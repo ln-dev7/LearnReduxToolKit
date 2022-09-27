@@ -1,6 +1,6 @@
 # Redux Toolkit
 
-* Les étapes *
+## Les étapes *
 
 - npm i @reduxjs/toolkit react-redux
 - Créer et configurer le store
